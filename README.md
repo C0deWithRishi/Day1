@@ -41,5 +41,5 @@ This project marks the start of my journey toward becoming a **Full Stack MERN D
 Feel free to share suggestions, feedback, or similar beginner project ideas!
 
 👨‍💻 **Rishabh Kashinath Sangam**  
-🔗 [LinkedIn](www.linkedin.com/in/rishabh-sangam-5a37b4370)  
+🔗 [LinkedIn](www.linkedin.com/in/rishabh-sangam-full-stack-developer)
 💼 Aspiring Full Stack Developer | MERN Stack Learner  
