@@ -1,4 +1,4 @@
-# Day1
+# Day 1
 # 🚀 LinkedIn Post UI – HTML & CSS
 
 This project is a **LinkedIn-style post layout** built using HTML and CSS. It simulates how a milestone post would appear on LinkedIn, including profile information, structured text, emojis, and hashtags — all styled in a clean and professional layout.
