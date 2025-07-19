@@ -9,7 +9,9 @@ To build and showcase my **first responsive HTML webpage**, while learning layou
 ---
 
 ## 📸 Preview
-![Uploading Screenshot (413).png…]()
+<img width="889" height="735" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/a26fe16d-68ed-4a90-97a9-1b151e89b7c9" />
+
+
 
 
 
