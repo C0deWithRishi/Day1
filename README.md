@@ -9,8 +9,10 @@ To build and showcase my **first responsive HTML webpage**, while learning layou
 ---
 
 ## 📸 Preview
+![Uploading Screenshot (413).png…]()
 
-![LinkedIn Post Screenshot](coding-profile.jpg)
+
+
 ---
 ## 🛠️ Technologies Used
 - HTML5
